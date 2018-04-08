@@ -55,7 +55,7 @@ $ curl -v http://glue.io --upload-file /path/to/some/pic.jpg
 {"key":"f7e124f754ed42ba80efb394fb6d49de159f8f4eef234b8d8bf5537ff3f3987a"}
 ```
 
-Point your browser to this URL [http://glue.io/f7e124f754ed42ba80efb394fb6d49de159f8f4eef234b8d8bf5537ff3f3987a](http://glue.io/f7e124f754ed42ba80efb394fb6d49de159f8f4eef234b8d8bf5537ff3f3987a) to see the image.
+Point your browser to [http://glue.io/f7e124f754ed42ba80efb394fb6d49de159f8f4eef234b8d8bf5537ff3f3987a](http://glue.io/f7e124f754ed42ba80efb394fb6d49de159f8f4eef234b8d8bf5537ff3f3987a) to see the image.
 
 ![Render images in browser](https://raw.githubusercontent.com/wicknicks/uploads/master/success-kid-glue.png)
 
