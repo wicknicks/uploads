@@ -57,7 +57,7 @@ $ curl -v http://glue.io --upload-file /path/to/some/pic.jpg
 
 Point your browser to [http://glue.io/f7e124f754ed42ba80efb394fb6d49de159f8f4eef234b8d8bf5537ff3f3987a](http://glue.io/f7e124f754ed42ba80efb394fb6d49de159f8f4eef234b8d8bf5537ff3f3987a) to see the image.
 
-![Render images in browser](https://raw.githubusercontent.com/wicknicks/uploads/master/success-kid-glue.png)
+![Render images in browser](https://raw.githubusercontent.com/wicknicks/uploads/master/glue.png)
 
 
 Glue is meant to be a simple way for developers to share files with each other, without having to setup SSH keys or create accounts with popular file sharing services. For this reason, we impose the following limits:
