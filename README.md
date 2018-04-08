@@ -8,7 +8,7 @@ To push a file, simply do:
 $ curl http://glue.io --upload-file mario-ascii-art.txt 
 {"key":"589a111a5cd04fcb8e280421a21b47977c03bd47e015427cbf374d051be40d7f"}
 ```
-Use this key to fetch this this file, 
+Use this key to fetch this this file:
 
 ```
 $ curl http://glue.io/589a111a5cd04fcb8e280421a21b47977c03bd47e015427cbf374d051be40d7f
@@ -41,7 +41,7 @@ $ curl http://glue.io/589a111a5cd04fcb8e280421a21b47977c03bd47e015427cbf374d051b
 
 ```
 
-Delete an existing file using: 
+Delete an existing file using its key: 
 
 ```
 $ curl -X DELETE http://glue.io/589a111a5cd04fcb8e280421a21b47977c03bd47e015427cbf374d051be40d7f
